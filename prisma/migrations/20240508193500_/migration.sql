@@ -24,7 +24,7 @@ VALUES
 ('d7627977-1c42-48a8-abe5-45422ddc97df', 'Proteção para crianças', '2024-05-05T00:00:00.000Z', '2024-05-05T00:00:00.000Z');
 
 -- Populate supplies
-INSERT INTO 'supplies' (id, supply_category_id, name, created_at, updated_at)
+INSERT INTO "supplies" (id, supply_category_id, name, created_at, updated_at)
 VALUES
 ('d382afa7-cef6-4e16-89aa-22a5e20562e6', '718d5be3-69c3-4216-97f1-12b690d0eb97', 'Xarope Para Gripe', '2024-05-09T12:16:19.103Z', null),
 ('1f136e6b-3881-4341-b169-5a4ec852c888', '718d5be3-69c3-4216-97f1-12b690d0eb97', 'Xampu Para Bebês', '2024-05-09T18:25:55.443Z', null),
